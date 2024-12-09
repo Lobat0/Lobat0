@@ -1,6 +1,6 @@
 # Bem-vindo! 👋
 
-##Eu sou Filipe Lobato!
+## Eu sou Filipe Lobato!
 
 Sou apaixonado por tecnologia, tenho formação em Análise e Desenvolvimento de Sistemas e experiência em linguagens como Python, Java, C#, JavaScript, além de habilidades em solução de problemas, liderança de equipes e otimização de processos. Atuei em projetos que envolveram logística, rastreamento de veículos e melhoria de sistemas internos, sempre buscando eficiência e inovação.
 
