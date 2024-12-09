@@ -16,6 +16,9 @@ Atualmente, estou cursando uma pós-graduação em Gestão de Sistemas de Inform
    <a/>
  </div>
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lobat0)](https://github.com/Lobat0)
+
 <!--
 **Lobat0/Lobat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
