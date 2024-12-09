@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bem-vindo! 👋
+
+##Eu sou Filipe Lobato!
+
+Sou apaixonado por tecnologia, tenho formação em Análise e Desenvolvimento de Sistemas e experiência em linguagens como Python, Java, C#, JavaScript, além de habilidades em solução de problemas, liderança de equipes e otimização de processos. Atuei em projetos que envolveram logística, rastreamento de veículos e melhoria de sistemas internos, sempre buscando eficiência e inovação.
+
+Atualmente, estou cursando uma pós-graduação em Gestão de Sistemas de Informação no IFSP, com foco em governança de TI, planejamento estratégico e metodologias ágeis como Scrum. Minha dedicação à aprendizagem contínua e meu compromisso com resultados me impulsionam a contribuir para o sucesso de equipes dinâmicas e projetos desafiadores.
 
 <div>
   <img height = "180cm" src= "https://github-readme-stats.vercel.app/api?username=lobat0&theme=dracula&show_icons=true" />
