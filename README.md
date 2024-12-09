@@ -16,7 +16,7 @@ Atualmente, estou cursando uma pós-graduação em Gestão de Sistemas de Inform
    <a/>
  </div>
 
-## Sobre mim:
+## Minhas redes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lobat0)](https://github.com/Lobat0)
 
