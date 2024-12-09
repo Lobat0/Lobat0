@@ -20,7 +20,7 @@ Atualmente, estou cursando uma pós-graduação em Gestão de Sistemas de Inform
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lobat0)](https://github.com/Lobat0)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/lobatofilipe/)]( https://www.linkedin.com/in/lobatofilipe/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lobatofilipe)](https://www.linkedin.com/in/lobatofilipe)
 
 - Obrigado pela visita!
 <!--
